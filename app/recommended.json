@@ -1,6 +1,5 @@
 {
   "recommended":[
-    "kitematic/html",
     "kitematic/ghost",
     "jenkins",
     "redis",
@@ -19,12 +18,6 @@
     "crate"
   ],
   "repos": [
-    {
-      "repo": "kitematic/hello-world-nginx",
-      "gradient_start": "#24B8EB",
-      "gradient_end": "#218CF4",
-      "img": "kitematic_html.png"
-    },
     {
       "repo": "ghost",
       "gradient_start": "#262A2D",
