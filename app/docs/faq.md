@@ -11,11 +11,11 @@ published: true
 
 #### Is Kitematic Open Source?
 
-Yes! Our source code is available on [GitHub](https://github.com/kitematic/kitematic). Kitematic is open source software released under the Apache 2.0 license.
+Yes! Our source code is available on [GitHub](https://github.com/kitematic-fork/kitematic). Kitematic is open source software released under the Apache 2.0 license.
 
 #### How can I contribute to Kitematic?
 
-We always welcome (and deeply appreciate!) new contributions to the project. The best way to start contributing to Kitematic is to review our doc on [contributing](https://github.com/kitematic/kitematic/blob/master/CONTRIBUTING.md).
+We always welcome (and deeply appreciate!) new contributions to the project. The best way to start contributing to Kitematic is to review our doc on [contributing](https://github.com/kitematic-fork/kitematic/blob/master/CONTRIBUTING.md).
 
 #### How Kitematic work with Docker?
 
@@ -23,7 +23,7 @@ Kitematic connects directly do a running instance of Docker and controls it via 
 
 #### Which platforms does Kitematic support?
 
-Right now Kitematic only works on Mac OS X. That said, Windows is on the short-term [roadmap](https://github.com/kitematic/kitematic/blob/master/ROADMAP.md) (coming soon!) and a Linux version is in high demand.
+Right now Kitematic only works on Mac OS X. That said, Windows is on the short-term [roadmap](https://github.com/kitematic-fork/kitematic/blob/master/ROADMAP.md) (coming soon!) and a Linux version is in high demand.
 
 #### Why does Kitematic collect usage analytics and bug reports?
 

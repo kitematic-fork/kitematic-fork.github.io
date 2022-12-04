@@ -20,14 +20,14 @@ Sometimes Kitematic doesn't set up VirtualBox properly. Retrying the setup usual
 - `docker-machine rm -f dev`
 - `docker-machine create -d virtualbox dev`
 
-Then re-open Kitematic. This usually fixes the issue, but if it persists, feel free to view our [existing GitHub issues](https://github.com/kitematic/kitematic/issues?q=is%3Aopen+is%3Aissue+label%3Abug).
+Then re-open Kitematic. This usually fixes the issue, but if it persists, feel free to view our [existing GitHub issues](https://github.com/kitematic-fork/kitematic/issues?q=is%3Aopen+is%3Aissue+label%3Abug).
 
 ### Contributing Fixes
 
-We're always looking for help to make Kitematic better and more reliable! Visit [our GitHub page](https://github.com/kitematic/kitematic) for docs on how to contribute.
+We're always looking for help to make Kitematic better and more reliable! Visit [our GitHub page](https://github.com/kitematic-fork/kitematic) for docs on how to contribute.
 
 Under the hood, Kitematic uses [Docker Machine](https://github.com/docker/machine) to provision Docker-enabled VMs via VirtualBox. We're still working on a stronger integration with this project. Their [GitHub repo](https://github.com/docker/machine) is a great place to start if you're looking to help fix specific issues around VM provisioning.
 
 ### View All Issues
 
-For a full list of Kitematic bugs or issues see our [GitHub issues](https://github.com/kitematic/kitematic/issues?q=is%3Aopen+is%3Aissue+label%3Abug) labelled as `bug`.
+For a full list of Kitematic bugs or issues see our [GitHub issues](https://github.com/kitematic-fork/kitematic/issues?q=is%3Aopen+is%3Aissue+label%3Abug) labelled as `bug`.
