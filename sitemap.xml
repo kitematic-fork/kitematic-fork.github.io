@@ -4,84 +4,77 @@
   
   
   <url>
-    <loc>https://kitematic.com/docs/faq/</loc>
+    <loc>https://kitematic-fork.github.io//docs/faq/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/download/</loc>
+    <loc>https://kitematic-fork.github.io//download/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/</loc>
+    <loc>https://kitematic-fork.github.io//</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/jobs/</loc>
+    <loc>https://kitematic-fork.github.io//docs/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/docs/</loc>
+    <loc>https://kitematic-fork.github.io//terms-of-service/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/terms-of-service/</loc>
+    <loc>https://kitematic-fork.github.io//docs/known-issues/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/docs/known-issues/</loc>
+    <loc>https://kitematic-fork.github.io//docs/managing-volumes/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/docs/managing-volumes/</loc>
+    <loc>https://kitematic-fork.github.io//docs/minecraft-server/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/docs/minecraft-server/</loc>
+    <loc>https://kitematic-fork.github.io//docs/nginx-web-server/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/docs/nginx-web-server/</loc>
+    <loc>https://kitematic-fork.github.io//docs/rethinkdb-dev-database/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://kitematic.com/docs/rethinkdb-dev-database/</loc>
-    <lastmod>2015-07-18T13:27:49-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitematic.com/docs/using-docker-cli/</loc>
+    <loc>https://kitematic-fork.github.io//docs/using-docker-cli/</loc>
     <lastmod>2015-07-18T13:27:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
